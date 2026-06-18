@@ -1,0 +1,5 @@
+Hello, this is a file.
+
+It has 5 lines.
+
+And a few characters.
