@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "name": "Aly",
+      "marks": {
+        "OS": 89,
+        "DB": 98
+      },
+      "total": 187,
+      "percentage": 0.935
+    },
+    {
+      "name": "Aly2",
+      "marks": {
+        "CN": 100,
+        "Calc": 82
+      },
+      "total": 182,
+      "percentage": 0.91
+    }
+  ]
+}
